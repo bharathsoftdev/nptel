@@ -1,4 +1,3 @@
-
 /* Sum of Numbers
 
 Level: Easy
@@ -22,7 +21,6 @@ Inputs will be in the range 0 to 100 (both included). */
 
 int main()
 {
-/* Write your code here*/
 
 	int num , i , sum = 0 ;                             // Initailize variables
 
